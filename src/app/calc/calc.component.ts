@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class CalcComponent {
 
+  num1: number = 0;
+  num2: number = 0;
+  soma: number = 0;
+
 }
